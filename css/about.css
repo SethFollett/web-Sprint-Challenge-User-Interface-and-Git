@@ -100,7 +100,7 @@ nav{
 }
 /* Top Styles */
 
-.monkey {
+.luffy {
     display: flex;
     flex-direction: column;
     text-align: left;
@@ -113,14 +113,14 @@ nav{
 .jumbo-about {
     text-align: center;
 }
-.snail {
+.zoro {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     text-align: center;
 }
 
-.snail1 {
+.zoro1 {
     display: flex;
     flex-direction: column;
     text-align: left;
@@ -128,7 +128,7 @@ nav{
     border-bottom: 2px dashed black;
 }
 
-.snail2 {
+.zoro2 {
     display: flex;
     flex-direction: column; 
     text-align: left;
@@ -136,28 +136,28 @@ nav{
     border-bottom: 2px dashed black; 
 }
 
-.giraffe {
+.nami {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     text-align: center;
 }
 
-.giraffe1 {
+.nami1 {
     display: flex;
     flex-direction: column;
     text-align: left;
     border-bottom: 2px dashed black;
 }
 
-.giraffe2 {
+.nami2 {
     display: flex;
     flex-direction: column;
     text-align: left;
     border-bottom: 2px dashed black;
 }
 
-.fish {
+.usopp {
     margin-top: 2%;
     margin-left: 4.5%;
     margin-right:4.5%;
